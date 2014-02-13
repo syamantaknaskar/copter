@@ -1,0 +1,9 @@
+Copter game
+
+Coded by Avinash Malviya, Ayush Deothia, Syamantak Naskar
+
+In this game, we have a main menu which is called from the main program.
+There all the options are present.
+In the play option a helicopter is drawn on the canvas for two different positions.
+Then using frames it is drawn on canvas. Then the collison conditon is done by enclosing the helicopter in an imaginary box. The obstacles are set in equal distances and in random y-cordinate. The smoke from behind the helicopter is done using a array of circles which increases in radius.
+After collison has taken place, the results are shown with score showing the distance the copter has covered. The user can now exit or play again.
